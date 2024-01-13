@@ -1,6 +1,6 @@
-# Developer experience на Django
+# Настройка developer experience на Django
 
-Из выступления Фёдора Борщёва [Воркшоп «Современный DX в Django»](https://www.youtube.com/watch?v=Zsr4aWKkdOc).
+Из выступления Фёдора Борщёва [«Современный DX в Django»](https://www.youtube.com/watch?v=Zsr4aWKkdOc).
 
 Запуск:
 
